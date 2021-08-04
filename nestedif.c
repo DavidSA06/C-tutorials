@@ -9,7 +9,7 @@ int main(){
     printf("option 1 for meals \n");
     printf("option 2 for desserts \n");
 
-    // este programa genera menus segun lo que el usuario elija
+    // This program generates menus according to what the user chooses. 
     if(opt1 == 0){
         printf("you chose option 0, you will see our beverages menu, choose one:\n");
         printf("option 0 for hamburger \n");
